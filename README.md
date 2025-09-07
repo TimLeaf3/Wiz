@@ -18,7 +18,7 @@
     ```
 2. Build and run the game following instructions in the `INSTALL.md`.
 
-## Gameplay
+## Gameplay 
 
 - Use spells strategically to defeat enemies.
 - Level up your wizard to unlock new abilities.
