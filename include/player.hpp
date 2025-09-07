@@ -1,7 +1,7 @@
 
 #pragma once
 
-#include "stats.hpp"
+#include "utils.hpp"
 #include <string>
 
 class player {
