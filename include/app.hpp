@@ -7,6 +7,10 @@
 
 #include <stdexcept>
 
+#include "character.hpp"
+#include "spell.hpp"
+#include "utils.hpp"
+
 class App {
 private:
   App() = default;

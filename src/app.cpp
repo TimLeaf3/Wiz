@@ -1,6 +1,5 @@
 
 #include "../include/app.hpp"
-#include "../include/player.hpp"
 
 // Access the App singleton
 App *App::instance = 0;

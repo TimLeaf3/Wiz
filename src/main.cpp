@@ -1,6 +1,5 @@
 
 #include "../include/app.hpp"
-#include "../include/player.hpp"
 
 App *app = App::ptr();
 int main() {

@@ -2,9 +2,15 @@
 #pragma once
 
 struct stats {
-  float hp = 0;
-  float attack = 0;
-  float defense = 0;
+  stats(float health = 0.0);
+
+  float health = 100.0;
+  float mana = 200.0;
+  float stamina = 50.0;
+
+  float speed = 10.0;
+  float attack = 10.0;
+  float defense = 10.0;
 };
 
 enum class spell_kind {
@@ -32,3 +38,5 @@ enum class spell_type {
   water,  // attacks, healing
   weather // change the weather
 };
+
+enum class passive_effects {};
